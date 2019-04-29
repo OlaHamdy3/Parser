@@ -1,2 +1,2 @@
 # Parser
-Syntax tree generation of a given tiny language code.
+Executable program that generates syntax tree of a given tiny language code.
